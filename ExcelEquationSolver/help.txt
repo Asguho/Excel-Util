@@ -1,0 +1,4 @@
+downlaod python
+download anaconda3 (package manager)
+download xlwings
+download sympy
